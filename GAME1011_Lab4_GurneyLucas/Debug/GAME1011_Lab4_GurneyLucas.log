@@ -1,0 +1,3 @@
+﻿  Lab4.cpp
+C:\Users\gurne\Documents\Semester 2\Advance programming\GAME1011_Lab4_GurneyLucas\GAME1011_Lab4_GurneyLucas\Lab4.cpp(58,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GAME1011_Lab4_GurneyLucas.vcxproj -> C:\Users\gurne\Documents\Semester 2\Advance programming\GAME1011_Lab4_GurneyLucas\Debug\GAME1011_Lab4_GurneyLucas.exe
